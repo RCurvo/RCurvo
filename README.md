@@ -5,7 +5,7 @@
 
 
 
-I am a highly motivated Full-Stack Developer passionate about solving problems. With a background in economics, I am transitioning into a career as a Full-Stack Developer. I possess advanced skills in Java, Spring, Docker, TypeScript, JavaScript, React, React Native, Node.js, and other web development technologies.
+I am a highly motivated Full-Stack Developer passionate about solving problems. With a background in economics that took his chances as Full-Stack Developer. I possess advanced skills in Java, Spring, Docker, TypeScript, JavaScript, React, React Native, Node.js, and other web development technologies.
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RCurvo&layout=compact&bg_color=66000000&border_color=edeef0&title_color=b07113&text_color=FFF)
 
@@ -29,7 +29,7 @@ I am a highly motivated Full-Stack Developer passionate about solving problems. 
 
 <a href="https://www.linkedin.com/in/renan-curvo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-Sou um programador Full Stack altamente motivado em resolver problemas, com formação em economia e em transição de carreira para desenvovedor Full-Stack. Possuo habilidades avançadas em Java, Spring, Docker, TypeScript, JavaScript, React, React Native, Node.js e outras tecnologias de desenvolvimento web.
+Sou um programador Full Stack altamente motivado em resolver problemas, com formação em economia trabalhando desenvovedor Full-Stack. Possuo habilidades avançadas em Java, Spring, Docker, TypeScript, JavaScript, React, React Native, Node.js e outras tecnologias de desenvolvimento web.
 
 
 ## Tecnologias favoritas
