@@ -1,4 +1,5 @@
 # Olá eu sou Renan Curvo, conheça meus projetos :)
+<img align="center" style="background-color:red" alt="RCurvo-Java" height="30" width="40" src="https://flagicons.lipis.dev/flags/4x3/br.svg" />
 
 <a href="https://www.linkedin.com/in/renan-curvo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
