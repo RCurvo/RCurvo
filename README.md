@@ -7,8 +7,6 @@
 
 I am a highly motivated Full-Stack Developer passionate about solving problems. With a background in economics that took his chances as Full-Stack Developer. I possess advanced skills in Java, Spring, Docker, TypeScript, JavaScript, React, React Native, Node.js, and other web development technologies.
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RCurvo&layout=compact&bg_color=66000000&border_color=edeef0&title_color=b07113&text_color=FFF)
-
 ## Favorite Technologies
 <div style="display: inline_block">
 <img align="center" style="background-color:red" alt="RCurvo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
